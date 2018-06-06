@@ -1,1 +1,1 @@
-Responsive web design template using bootstrap.
+Responsive web template design using bootstrap.
